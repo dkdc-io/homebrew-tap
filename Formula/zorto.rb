@@ -1,8 +1,8 @@
 class Zorto < Formula
   desc "AI-native static site generator (SSG) with executable code blocks"
   homepage "https://zorto.dev"
-  url "https://github.com/dkdc-io/zorto/archive/refs/tags/v0.22.0.tar.gz"
-  sha256 "f7b3ae8707c50f9ec727a77426d28bce45745fee51802360fcce52725eda46c7"
+  url "https://github.com/dkdc-io/zorto/archive/refs/tags/v0.24.0.tar.gz"
+  sha256 "a3faf3081c8c568d0db8e1bcf669cb523b5c0c4f8984d590d2cba584e821f8cb"
   license "MIT"
   head "https://github.com/dkdc-io/zorto.git", branch: "main"
 
